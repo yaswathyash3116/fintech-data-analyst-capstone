@@ -47,6 +47,6 @@ fintech-data-analyst-capstone/
 
 ## Author
 
-Yaswanth Yash
+Yaswanth kumar
 
 Data Analyst Intern
