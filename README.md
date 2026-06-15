@@ -50,3 +50,33 @@ fintech-data-analyst-capstone/
 Yaswanth kumar
 
 Data Analyst Intern
+
+## Dashboard
+
+The project includes an interactive Power BI dashboard for:
+
+- Investor Analysis
+- SIP Trend Analysis
+- Fund Performance Comparison
+- Portfolio Insights
+
+Dashboard File:
+Mutual_Fund_Analytics_Dashboard.pbix
+
+## Key Insights
+
+- SIP investments showed steady growth.
+- Top-performing funds generated consistent returns.
+- Diversified portfolios reduced investment risk.
+- Long-term investments outperformed short-term strategies.
+
+## Future Improvements
+
+- Real-time mutual fund data integration
+- Market sentiment analysis
+- Predictive analytics using machine learning
+- Automated dashboard refresh
+
+## License
+
+This project is developed for educational and portfolio purposes.
